@@ -1,0 +1,8 @@
+.bgNavbar{
+    background-image: url('../../public/images/bg-nav.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* background: red; */
+}
+/*  */
